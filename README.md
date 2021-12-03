@@ -9,3 +9,4 @@ Youtube videos:
 1.https://youtu.be/I2sfDXzRwU8
 2. https://youtu.be/V_Ey80qJj9M
 
+To access the UI directly for predicting selling price deployed in heroku: https://used-car-prediction-machine.herokuapp.com/
