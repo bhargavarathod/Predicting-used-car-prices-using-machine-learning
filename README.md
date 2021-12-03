@@ -5,3 +5,7 @@
 4. Templates folder has the .html files where we haved developed the frontend in heroku app
 5.  app.y is the python backend programming files for the intereactions  between the .html and trained model.
  
+Youtube videos:
+1.https://youtu.be/I2sfDXzRwU8
+2. https://youtu.be/V_Ey80qJj9M
+
